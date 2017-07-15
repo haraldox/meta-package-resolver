@@ -1,0 +1,7 @@
+{
+  "name": "meta-package-resolver",
+  "version": "1.0.0",
+  "description": "Resolves an abstract service into concrete packages in meta.",
+  "author": "haraldox",
+  "license": "UNLICENSED"
+}
